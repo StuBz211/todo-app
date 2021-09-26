@@ -1,0 +1,9 @@
+port: "8001"
+
+db:
+  host: "localhost"
+  port: "5436"
+  username: "postgres"
+  password: ""  # used from env
+  dbname: "postgres"
+  sslmode: "disable"
